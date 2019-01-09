@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose of this guide is to provide guidance on building applications using Sequelize by showing tips and tricks about it. All examples were made using AdventureWorks database.
+The purpose of this guide is to provide guidance on building applications using Sequelize by showing tips and tricks about it. All examples were made using [AdventureWorks](https://www.microsoft.com/en-us/download/details.aspx?id=49502) database.
 
 [Official documentation!](http://docs.sequelizejs.com/)
 [Complementary documentation!](https://sequelize.readthedocs.io/en/latest/)
@@ -18,6 +18,8 @@ The purpose of this guide is to provide guidance on building applications using 
 1. Tests
 
 ## Setup
+
+* Dowloading SQL Server Adventure Works database - https://www.microsoft.com/en-us/download/details.aspx?id=49502
 
 * Loggin
 
